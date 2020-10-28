@@ -4,7 +4,7 @@ When joining a new team, you will be expected to inspect a lot of code that you 
 ## Table of Contents
   * [Description](#Description)
   * [TableOfContents](#TableOfContents)
-  * [Written Tutorials](#Written Tutorials)
+  * [Walkthrough](#Walkthrough)
   * [License](#license)
   * [Contributors](#Contributors)
 
@@ -52,10 +52,13 @@ When joining a new team, you will be expected to inspect a lot of code that you 
 #### api-routes.js
 - Requires:  "db", "passport"
 - Post requests for user login functions, 
+
     ![post-login](./Assets/post-log.png)
 -  Post requests for signup functions, and 
+    
     ![post-signin](./Assets/post-sign.png)
 - Get requests for logout functions. 
+    
     ![get-logout](./Assets/get-log.png)
 
 #### html-routes.js
